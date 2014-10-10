@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RPSContext-Web.config Connection String" description="RPSContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:xxqji7pzxx.database.windows.net,1433;Database=RPS;User ID=manuel@xxqji7pzxx;Password=MarayaV259;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\manue_000\\Documents\\Visual\ Studio\ 2013\\Projects\\RPCGamePlay\\RCPWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RPSContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\manue_000\\Documents\\Visual\ Studio\ 2013\\Projects\\RPCGamePlay\\RCPWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

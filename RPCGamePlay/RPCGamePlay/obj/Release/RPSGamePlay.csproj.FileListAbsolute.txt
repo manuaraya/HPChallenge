@@ -1,0 +1,10 @@
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\RPCGamePlay.dll.config
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\RPCGamePlay.dll
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\RPCGamePlay.pdb
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\EntityFramework.dll
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\EntityFramework.xml
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\obj\Release\RPSGamePlay.csprojResolveAssemblyReference.cache
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\obj\Release\RPCGamePlay.dll
+C:\Users\manue_000\Documents\Visual Studio 2013\Projects\RPCGamePlay\RPCGamePlay\obj\Release\RPCGamePlay.pdb

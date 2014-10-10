@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "The Rock-Paper-Scissors Game";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                Upload your new Tournament File, see the results.
+                It's as easy as playing in real life.
+            </p>
+            @Html.Partial("~/Views/Shared/FileUploader.cshtml")
+        </div>
+    </section>
+}
+<h3>-Click on the next options to get more info:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>Download Tournament Examples</h5>        
+        <p>In this repository you can download some examples of tournament files, check them out and create your own!!</p>
+    </li>
+    <li class="two">
+        <h5>@Html.ActionLink("See The Top Ten Players", "Index", "TopPlayer")</h5>
+</li>
+
+    <li class="three">
+        <h5>@Html.ActionLink("Erase all the Data and Start again", "ResetData", "Home")</h5>       
+    </li>
+</ol>
+

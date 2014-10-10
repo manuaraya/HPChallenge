@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<article>
+    <p>
+        The Challege Solutions consist in a Class Library containing the logic of the Game that will not change over the time.
+        For that reason is separeted from the Web application, so the same Game Core can be use for different applications of any kind.
+        In this Class Library, you will find a Player Entity, that have the name and strategie for the game; a FileLoader, that reads
+        the File that with the definition of a SingleGame or Tournament and is serialize to a Collection of Players and a Game Class that
+        contains all the main logic of the Rock Paper Scissors for completing the game.
+        </p>
+
+    <p>
+        The Web Application is a MVC4 architecture, it have all the view or partial view for having a easy access to the information and game results.
+        The DataBase was build with Entity Framework Code First and uses LinQ for all the in interactions of the user with the Data Base.
+        
+    </p>
+
+    </article>
+
+<aside>
+    <h3>To explore a bit more about the Solution, please visit:</h3>
+
+    <p>
+        <span><a href="">Solution Code</a></span>
+    </p>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+    </ul>
+</aside>
