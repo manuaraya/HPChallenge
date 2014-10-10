@@ -1,7 +1,7 @@
 [
 [
 [ ["Armando", "P"], ["Dave", "S"] ],
-[ ["Richard", "R"], ["Michael", "S"] ],
+[ ["Manuel", "R"], ["Michael", "S"] ],
 ],
 [
 [ ["Allen", "S"], ["Omer", "P"] ],

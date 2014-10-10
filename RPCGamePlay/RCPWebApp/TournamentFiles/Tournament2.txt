@@ -1,0 +1,19 @@
+[
+[
+[ ["Armando", "P"], ["Dave", "S"] ],
+[ ["Guilberth", "R"], ["Michael", "S"] ],
+],
+[
+[ ["Allen", "S"], ["Omer", "P"] ],
+[ ["John", "R"], ["Robert", "P"] ]
+]
+],
+[
+[ ["Allen", "S"], ["Omer", "P"] ],
+[ ["John", "R"], ["Robert", "P"] ]
+],
+[
+[ ["Allen", "S"], ["Omer", "P"] ],
+[ ["John", "R"], ["Robert", "P"] ]
+]
+]
